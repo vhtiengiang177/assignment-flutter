@@ -1,4 +1,4 @@
-# week3project
+# Flutter
 
 A new Flutter project.
 
